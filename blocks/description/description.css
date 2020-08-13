@@ -1,0 +1,8 @@
+.description {
+  display: flex;
+  justify-content: center;
+  align-items: space-between;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin: auto;
+}

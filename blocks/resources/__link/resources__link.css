@@ -1,0 +1,13 @@
+.resources__link {
+  text-decoration: none;
+  opacity: 1;
+}
+
+.resources__link:hover {
+  text-decoration: underline;
+  opacity: 0.5;
+  transition-property: opacity;
+  transition-duration: 1s;
+  transition-timing-function: linear;
+  transition-delay: 0.5;
+}

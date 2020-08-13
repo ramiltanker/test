@@ -1,0 +1,13 @@
+.cards__item {
+list-style-type: none;
+margin-left: 0px;
+padding-left: 0;
+width: 240px;
+min-height: 200px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+}
+
+
